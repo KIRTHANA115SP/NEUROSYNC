@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+data/raw/*
+data/processed/*
+outputs/*
+!data/raw/.gitkeep
+!outputs/.gitkeep
+.ipynb_checkpoints/
+.DS_Store
+models/
